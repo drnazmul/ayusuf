@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Dr. Abu Yusuf
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Chemical Engineering & Polymer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Shahjalal University of Science and Technology
+
+
+  url: "https://www.sust.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include dBiofuels, renewable energies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bio fuels
+- Renewable energy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in  
+    institution:  
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Abu Yusuf is a professor of Chemical Engineering and Polymer Sciences at the Shahjalal University of Science and Tech. His research interests include the techniques of physics (electric/electroporation) on biological tissues/cell to deform their structure to enhance biofuel production. Much of our work is concentrated on destabilizing the lignocellulosic biomass for microbial degradation.  We also investigate the effect of electroporation on the cell membrane of yeast. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 
