@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in  
-    institution:  
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD 
+    institution:  Chemical Engineering, University of Naples Federico II, Italy
+    year: 2010
+  - course: MSc.
+    institution: Applied Chemistry and Chemical Technology, University of Rajshahi, Bangladesh
+    year: 2002
+  - course: BSc in Applied Chemistry and Chemical Technology
+    institution: University of Rajshahi, Rajshahi-6205, Bangladesh
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
